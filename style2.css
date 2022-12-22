@@ -1,0 +1,25 @@
+/* Home work #2 */
+
+body {
+    color: rgb(19, 37, 178);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    background-color: rgb(210, 241, 130);
+}
+
+
+p {
+    color: rgb(10, 64, 17);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px
+    
+}
+
+button {
+    color: rgb(8, 15, 240);
+    font-family: Verdana, Geneva;
+    background-color: rgb(118, 216, 126);
+    border-radius: 10px;
+}
+
+  
